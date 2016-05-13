@@ -1,0 +1,14 @@
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\bin\Release\Osu! Song Sorter.exe.config
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\obj\Release\Interop.MediaPlayer.dll
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\obj\Release\Interop.WMPLib.dll
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\obj\Release\Osu! Song Sorter.csproj.ResolveComReference.cache
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\bin\Release\Osu! Song Sorter.exe
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\bin\Release\Osu! Song Sorter.pdb
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\bin\Release\policy.2.0.taglib-sharp.dll
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\bin\Release\taglib-sharp.dll
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\bin\Release\policy.2.0.taglib-sharp.config
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\obj\Release\Osu__Song_Sorter.Form1.resources
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\obj\Release\Osu__Song_Sorter.Properties.Resources.resources
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\obj\Release\Osu! Song Sorter.csproj.GenerateResource.Cache
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\obj\Release\Osu! Song Sorter.exe
+c:\users\meyer family\documents\visual studio 2013\Projects\Osu!_Song_Sorter\Osu! Song Sorter\obj\Release\Osu! Song Sorter.pdb
